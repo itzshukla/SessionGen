@@ -20,7 +20,7 @@
   "addons": [
       {
          "options": {
-            "version": "16"
+            "version": "15"
          },
          "plan": "heroku-postgresql"
       }
@@ -45,12 +45,12 @@
     "BOT_USERNAME": {
       "description": "Your Bot User Name",
       "required": true,
-      "value": "SessionGenerateBot"
+      "value": "KHUSHWANTSPAMBOT"
     },
     "AUTH_CHANNEL": {
       "description": "Your Fsub Channel Id",
       "required": true,
-      "value": "EpicBotsSl"
+      "value": "SHIVANSH474"
     },
     "HEROKU_API_KEY": {
       "description": "Your Heroku Api Key",
@@ -60,7 +60,7 @@
     "AUTH_USERS": {
       "description": "Admins For Bot",
       "required": true,
-      "value": "5196689118"
+      "value": "6762113050"
     },
     "HEROKU_APP_NAME": {
       "description": "Heroku App name",
